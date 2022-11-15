@@ -1,5 +1,5 @@
 
-#Gadget classification using pretrained RESNET-50 and Pytorch deployed using Gradio and Hosted on Huggingface. 
+# Gadget classification using pretrained RESNET-50 and Pytorch deployed using Gradio and Hosted on Huggingface. 
 2.Created a Gadget Classification project which classifies the gadgets images as Laptop, Mobile and Headphones.<br />
 3.Demo (https://huggingface.co/spaces/ishaal007/gadgets_classifier)<br />
 4.Dataset: Own dataset used (Uploaded on Github)<br />
